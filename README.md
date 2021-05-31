@@ -1,22 +1,23 @@
-SULEYMAN DEMIREL UNIVERSITY
-ENGINEERING FACULTY
+# SULEYMAN DEMIREL UNIVERSITY
+## ENGINEERING FACULTY
 
 
 
 
 
 INF 305 - Database Management Systems 2
-Project documentation
+
+# Project documentation
    
 
 
 
 
 
-Checked by: Assem Talasbek
-Made by: Oralbek Sapar
-	       	Azamat Malikov
-	       Zhussupali Salamat
+# Checked by: Assem Talasbek
+# Made by: Oralbek Sapar
+# 	       	Azamat Malikov
+# 	       Zhussupali Salamat
 
 
 
@@ -29,17 +30,17 @@ Kaskelen, 2021
 
 
 
-Structure:
+# Structure:
 
-Abstract
-Introduction
-Aim and objectives of research
-Background Review 
-Methods and Materials
-Data and Results
-Discussion
-Conclusion
-References			
+* Abstract
+* Introduction
+* Aim and objectives of research
+* Background Review 
+* Methods and Materials
+* Data and Results
+* Discussion
+* Conclusion
+* References			
 
 
 
